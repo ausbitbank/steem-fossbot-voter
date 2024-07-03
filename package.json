@@ -30,7 +30,7 @@
     "sendgrid": "^4.2.0",
     "q": "1.4.1",
     "redis": "2.6.3",
-    "glossary": "0.1.1",
+    "glossary": "1.0.0",
     "string": "3.3.3",
     "strip-markdown": "3.0.0",
     "remark": "6.2.0",
